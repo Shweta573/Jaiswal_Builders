@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "name": " UltraTech Cement ",
+    "price": 500,
+    "image": "assets\\imgs\\products\\cement\\01.png",
+    "description": "It is used for varied building construction processes which include all types of PCC, masonry and plaster works."
+  },
+  {
+    "id": 2,
+    "name": "Star Cement",
+    "price": 390,
+    "image": "assets\\imgs\\products\\cement\\star.png",
+    "description": "It is used for varied building construction processes which include all types of PCC, masonry and plaster works."
+  },
+  {
+    "id": 3,
+    "name": " Dalmia Cement",
+    "price": 420,
+    "image": "assets\\imgs\\products\\cement\\03.png",
+    "description": "It is used for varied building construction processes which include all types of PCC, masonry and plaster works."
+  },
+  {
+    "id": 4,
+    "name": " Ambuja Cement",
+    "price": 450,
+    "image": "assets\\imgs\\products\\cement\\04.png",
+    "description": "It is used for varied building construction processes which include all types of PCC, masonry and plaster works. "
+  },
+  {
+    "id": 5,
+    "name": " Samrat Cement",
+    "price": 430,
+    "image": "assets\\imgs\\products\\cement\\05.png",
+    "description": " It is used for varied building construction processes which include all types of PCC, masonry and plaster works."
+  },
+  {
+    "id": 6,
+    "name": " Red Bricks",
+    "price": 8,
+    "image": "assets\\imgs\\products\\Bricks\\01.jpg",
+    "description": "A brick is a type of construction material used to build walls, pavements and other elements in masonry construction."
+  },
+  {
+    "id": 7,
+    "name": " Red Bricks",
+    "price": 9,
+    "image": "assets\\imgs\\products\\Bricks\\02.jpg",
+    "description": "A brick is a type of construction material used to build walls, pavements and other elements in masonry construction."
+  },
+  {
+    "id": 8,
+    "name": " Fly Ash Bricks",
+    "price": 10,
+    "image": "assets\\imgs\\products\\Bricks\\03.jpg",
+    "description": "A brick is a type of construction material used to build walls, pavements and other elements in masonry construction."
+  },
+  {
+    "id": 9,
+    "name": " Fly Ash Bricks",
+    "price": 12,
+    "image": "assets\\imgs\\products\\Bricks\\04.jpg",
+    "description": "A brick is a type of construction material used to build walls, pavements and other elements in masonry construction."
+  },
+  {
+    "id": 10,
+    "name": " Concrete01",
+    "price": 0,
+    "image": "assets\\imgs\\products\\concrete\\01.jpg",
+    "description": "Concrete is a strong, durable, and affordable construction material made from a mixture of cement, water, and aggregates like sand and gravel."
+  },
+  {
+    "id": 11,
+    "name": " Concrete02",
+    "price": 0,
+    "image": "assets\\imgs\\products\\concrete\\02.jpg",
+    "description": "Concrete is a strong, durable, and affordable construction material made from a mixture of cement, water, and aggregates like sand and gravel."
+  },
+  {
+    "id": 12,
+    "name": " Concrete03",
+    "price": 0,
+    "image": "assets\\imgs\\products\\concrete\\03.jpg",
+    "description": "Concrete is a strong, durable, and affordable construction material made from a mixture of cement, water, and aggregates like sand and gravel."
+  },
+  {
+    "id": 13,
+    "name": " Concrete04",
+    "price": 0,
+    "image": "assets\\imgs\\products\\concrete\\04.jpg",
+    "description": "Concrete is a strong, durable, and affordable construction material made from a mixture of cement, water, and aggregates like sand and gravel."
+  },
+  {
+    "id": 14,
+    "name": " Durgapur Tmt Bar",
+    "price": 0,
+    "image": "assets\\imgs\\products\\Tmt-bars\\02.jpg",
+    "description": " TMT bars or Thermo-Mechanically Treated bars are high-strength reinforcement bars having a tough outer core and a soft inner core."
+  },
+  {
+    "id": 15,
+    "name": " Tata Tmt Bar",
+    "price": 0,
+    "image": "assets\\imgs\\products\\Tmt-bars\\03.jpg",
+    "description": " TMT bars or Thermo-Mechanically Treated bars are high-strength reinforcement bars having a tough outer core and a soft inner core."
+  },
+  {
+    "id": 16,
+    "name": " Shyam Steel Tmt Bar",
+    "price": 0,
+    "image": "assets\\imgs\\products\\Tmt-bars\\01.png",
+    "description": " TMT bars or Thermo-Mechanically Treated bars are high-strength reinforcement bars having a tough outer core and a soft inner core."
+  },
+  {
+    "id": 17,
+    "name": " Jindal Tmt Bar",
+    "price": 0,
+    "image": "assets\\imgs\\products\\Tmt-bars\\04.jpg",
+    "description": " TMT bars or Thermo-Mechanically Treated bars are high-strength reinforcement bars having a tough outer core and a soft inner core."
+  },
+  {
+    "id": 18,
+    "name": " Sail Tmt Bar",
+    "price": 0,
+    "image": "assets\\imgs\\products\\Tmt-bars\\04.jpg",
+    "description": " TMT bars or Thermo-Mechanically Treated bars are high-strength reinforcement bars having a tough outer core and a soft inner core."
+  },
+  {
+    "id": 19,
+    "name": " Jsw Tmt Bar",
+    "price": 0,
+    "image": "assets\\imgs\\products\\Tmt-bars\\04.jpg",
+    "description": " TMT bars or Thermo-Mechanically Treated bars are high-strength reinforcement bars having a tough outer core and a soft inner core."
+  },
+  {
+    "id": 20,
+    "name": " Srmb Tmt Bar",
+    "price": 0,
+    "image": "assets\\imgs\\products\\Tmt-bars\\04.jpg",
+    "description": " TMT bars or Thermo-Mechanically Treated bars are high-strength reinforcement bars having a tough outer core and a soft inner core."
+  },
+  {
+    "id": 21,
+    "name": " Sample 1",
+    "price": 0,
+    "image": "assets\\imgs\\products\\aac-block\\01.jpg",
+    "description": " Ideal, well-crafted AAC Blocks for building enduring, timeless structures."
+  },
+  {
+    "id": 22,
+    "name": " Sample 2",
+    "price": 0,
+    "image": "assets\\imgs\\products\\aac-block\\02.jpg",
+    "description": " Ideal, well-crafted AAC Blocks for building enduring, timeless structures."
+  },
+  {
+    "id": 23,
+    "name": " Sample 3",
+    "price": 0,
+    "image": "assets\\imgs\\products\\aac-block\\03.jpg",
+    "description": " Ideal, well-crafted AAC Blocks for building enduring, timeless structures."
+  },
+  {
+    "id": 24,
+    "name": " Sample 4",
+    "price": 0,
+    "image": "assets\\imgs\\products\\aac-block\\04.jpg",
+    "description": " Ideal, well-crafted AAC Blocks for building enduring, timeless structures."
+  },
+  {
+    "id": 25,
+    "name": " Sample 1",
+    "price": 0,
+    "image": "assets\\imgs\\products\\mspipe\\01.jpg",
+    "description": "MS pipes are used for the purpose of plumbing, firefighting, heating, ventilation and air conditioning."
+  },
+  {
+    "id": 26,
+    "name": " Sample 2",
+    "price": 0,
+    "image": "assets\\imgs\\products\\mspipe\\02.jpg",
+    "description": "MS pipes are used for the purpose of plumbing, firefighting, heating, ventilation and air conditioning."
+  },
+  {
+    "id": 27,
+    "name": " Sample 3",
+    "price": 0,
+    "image": "assets\\imgs\\products\\mspipe\\03.jpg",
+    "description": "MS pipes are used for the purpose of plumbing, firefighting, heating, ventilation and air conditioning."
+  },
+  {
+    "id": 28,
+    "name": " Sample 1",
+    "price": 0,
+    "image": "assets\\imgs\\products\\plywood\\01.jpg",
+    "description": "Plywood can naturally withstand a lot of stress and full weather exposure"
+  },
+  {
+    "id": 29,
+    "name": " Sample 2",
+    "price": 0,
+    "image": "assets\\imgs\\products\\plywood\\02.jpg",
+    "description": "Plywood can naturally withstand a lot of stress and full weather exposure"
+  },
+  {
+    "id": 30,
+    "name": " Sample 3",
+    "price": 0,
+    "image": "assets\\imgs\\products\\plywood\\03.jpg",
+    "description": "Plywood can naturally withstand a lot of stress and full weather exposure"
+  },
+  {
+    "id": 31,
+    "name": " Sample 4",
+    "price": 0,
+    "image": "assets\\imgs\\products\\plywood\\04.jpg",
+    "description": "Plywood can naturally withstand a lot of stress and full weather exposure"
+  },
+  {
+    "id": 32,
+    "name": " Sample 1",
+    "price": 0,
+    "image": "assets\\imgs\\products\\waterproof\\01.jpg",
+    "description": "Waterproofing compounds are to be used with cement while making a waterproof structure"
+  },
+  {
+    "id": 33,
+    "name": " Sample 2",
+    "price": 0,
+    "image": "assets\\imgs\\products\\waterproof\\02.jpg",
+    "description": "Waterproofing compounds are to be used with cement while making a waterproof structure"
+  },
+  {
+    "id": 34,
+    "name": " Sample 3",
+    "price": 0,
+    "image": "assets\\imgs\\products\\waterproof\\03.jpg",
+    "description": "Waterproofing compounds are to be used with cement while making a waterproof structure"
+  },
+  {
+    "id": 35,
+    "name": " Sample 4",
+    "price": 0,
+    "image": "assets\\imgs\\products\\waterproof\\04.jpg",
+    "description": "Waterproofing compounds are to be used with cement while making a waterproof structure"
+  }
+
+]
